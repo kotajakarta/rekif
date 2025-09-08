@@ -9,24 +9,27 @@ on:
 jobs:
   update-csv:
     runs-on: ubuntu-latest
-
-    # --- BARIS INI DITAMBAHKAN UNTUK MEMBERI IZIN MENULIS ---
     permissions:
       contents: write
-    # ----------------------------------------------------
 
     steps:
+      # Langkah 1: Checkout repositori menggunakan token rahasia
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
 
+      # Langkah 2: Ambil data CSV
       - name: Fetch Google Sheet CSV
         run: curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhyB_qD4IIn4x3oU0KMtoSKidNEDHAS9XBhKiKd9fzZfYcll_5tjy8INRrmmXDtv30_j0peLmRKHXc/pub?gid=1100848518&single=true&output=csv" -o rekomendasi.csv
 
+      # Langkah 3: Konfigurasi Git
       - name: Configure Git
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
 
+      # Langkah 4: Commit dan Push
       - name: Commit and Push if changed
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
