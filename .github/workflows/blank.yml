@@ -1,0 +1,43 @@
+# Nama workflow yang akan tampil di tab Actions
+name: Update Rekomendasi CSV
+
+# Pemicu workflow
+on:
+  # Menjalankan workflow sesuai jadwal (schedule)
+  schedule:
+    # Ini adalah format cron, berjalan setiap 5 menit
+    - cron: '*/5 * * * *'
+  # Tombol untuk menjalankan manual di tab Actions
+  workflow_dispatch:
+
+# Pekerjaan (jobs) yang harus dilakukan
+jobs:
+  update-csv:
+    # Menjalankan di sistem operasi Ubuntu versi terbaru
+    runs-on: ubuntu-latest
+    steps:
+      # Langkah 1: Checkout kode repositori agar workflow bisa mengaksesnya
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Langkah 2: Ambil data CSV dari Google Sheets dan simpan ke file
+      - name: Fetch Google Sheet CSV
+        run: curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhyB_qD4IIn4x3oU0KMtoSKidNEDHAS9XBhKiKd9fzZfYcll_5tjy8INRrmmXDtv30_j0peLmRKHXc/pub?gid=1100848518&single=true&output=csv" -o rekomendasi.csv
+
+      # Langkah 3: Konfigurasi Git
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+
+      # Langkah 4: Commit dan Push perubahan jika ada
+      - name: Commit and Push if changed
+        run: |
+          # Cek apakah ada perubahan pada file
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add rekomendasi.csv
+            git commit -m "Update rekomendasi.csv with latest data"
+            git push
+          else
+            echo "No changes to commit."
+          fi
