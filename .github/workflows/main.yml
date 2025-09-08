@@ -20,8 +20,8 @@ jobs:
           token: ${{ secrets.PAT }}
 
       # Langkah 2: Ambil data CSV
-      - name: Fetch Google Sheet CSV
-        run: curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhyB_qD4IIn4x3oU0KMtoSKidNEDHAS9XBhKiKd9fzZfYcll_5tjy8INRrmmXDtv30_j0peLmRKHXc/pub?gid=1100848518&single=true&output=csv" -o rekomendasi.csv
+      - name: Fetch Google Sheet TXT
+        run: curl -L "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhyB_qD4IIn4x3oU0KMtoSKidNEDHAS9XBhKiKd9fzZfYcll_5tjy8INRrmmXDtv30_j0peLmRKHXc/pub?gid=1100848518&single=true&output=csv" -o rekomendasi.txt
 
       # Langkah 3: Konfigurasi Git
       - name: Configure Git
