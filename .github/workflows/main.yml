@@ -6,7 +6,7 @@ on:
   # Menjalankan workflow sesuai jadwal (schedule)
   schedule:
     # Ini adalah format cron, berjalan setiap 5 menit
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
   # Tombol untuk menjalankan manual di tab Actions
   workflow_dispatch:
 
