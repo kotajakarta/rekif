@@ -222,3 +222,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 1110040409970001,Ramadhan ,https://drive.google.com/file/d/1liRcQ9DwL21gjKqOLi8F9vqbA5bNIPzS/view?usp=drivesdk
 1813025208980001,Purniawati ,https://drive.google.com/file/d/1Qn5Gwao4jz0Jpqr5aLGc8y4xVyR4cT07/view?usp=drivesdk
 3604015605020051,Dzawata afnani,https://drive.google.com/file/d/1DhCgqdwWGojpk1V5s-JV94MUssRMbbtz/view?usp=drivesdk
+1106024502010001,Wildani Mafaza,https://drive.google.com/file/d/1r9bJhnG-vsv-WBsME6xSYqUTgDe8rnNh/view?usp=drivesdk
