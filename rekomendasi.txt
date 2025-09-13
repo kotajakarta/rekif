@@ -227,4 +227,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3503110712950001,Muhammad zaki abdul haq robbani,https://drive.google.com/file/d/1H2CkxgIFDdjr9ikz5HFpZzA-UbQ9nPBI/view?usp=drivesdk
 3503110712950001,Muhammad Zaki Abdul Haq Robbani,https://drive.google.com/file/d/1ZqyGR4P2zncWcjodbvKRuijk1rOL9Cru/view?usp=drivesdk
 3521044703020001,Rahmatul Isnaini,https://drive.google.com/file/d/1XkTM-nXIfl5kiN9gzGq39rwyW5PAiLTW/view?usp=drivesdk
-6212012008000004,Aulia Rahman,
