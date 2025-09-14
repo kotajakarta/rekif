@@ -231,4 +231,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3524155501990001,Idamatul khoiroh,https://drive.google.com/file/d/1GkV3DZgN1s8VpN-m1qqqDBxwFjxlerC0/view?usp=drivesdk
 1174032012980002,Mahfudh Arhasy,https://drive.google.com/file/d/1rXaEuiZXVxeJN6pIlKqQjWbyZVuuo6GI/view?usp=drivesdk
 3525095911990001,Silvia Qonitah,https://drive.google.com/file/d/1a5PBx7OxZp_lfLWWcQhGQn2T9cx_wcK0/view?usp=drivesdk
-3525155511030001,Haniifah Khoirunnisa,https://drive.google.com/file/d/1VD1s_pgtGUeYD-dBBLyWko6GjDYtCbsE/view?usp=drivesdk
