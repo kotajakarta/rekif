@@ -241,4 +241,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3302050703920001,MOHAMAD MUSANGIDUDIN,https://drive.google.com/file/d/153ErSZpilCJXYX11wBjLORw6daZmcPI6/view?usp=drivesdk
 1312035405060007,ZAHWA AULIA SYFA,https://drive.google.com/file/d/1RECV2WkDZnDIqLx0t-2-rH5rfixmwYLB/view?usp=drivesdk
 1312035405060007,ZAHWA AULIA SYFA,https://drive.google.com/file/d/1DFXxSivnb6Oojcs-_oCQWaBfJQWG7Oh6/view?usp=drivesdk
-3204176007980005,Siti jubaedah,https://drive.google.com/file/d/1s1ulDpvKhiM5yuaumQRbHA9xHWWixFfX/view?usp=drivesdk
