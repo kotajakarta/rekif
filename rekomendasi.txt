@@ -243,3 +243,5 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 1312035405060007,ZAHWA AULIA SYFA,https://drive.google.com/file/d/1DFXxSivnb6Oojcs-_oCQWaBfJQWG7Oh6/view?usp=drivesdk
 3204176007980005,Siti jubaedah,https://drive.google.com/file/d/1s1ulDpvKhiM5yuaumQRbHA9xHWWixFfX/view?usp=drivesdk
 3578031810980002,Nur Muhammad Taufiqurrohman ,https://drive.google.com/file/d/15WW6sSI7P19GRin5oUgjzEeYOuZVyDeF/view?usp=drivesdk
+3216026301940005,Nur Azizah Alawiyah,https://drive.google.com/file/d/1QKOG7ZvPfIKDijibXbpSV_993bBWGVAu/view?usp=drivesdk
+3172034108001002,Chika Puspita ,https://drive.google.com/file/d/123reHSTBcCcSj3J9e8xRRxIznIdtcOcu/view?usp=drivesdk
