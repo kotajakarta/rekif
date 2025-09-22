@@ -253,4 +253,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3209360104980002,Muhammad Naufal ,https://drive.google.com/file/d/1ABJ_mSQvWQi0LoeqKujqpsiX9KDSkeUc/view?usp=drivesdk
 3672053008000001,Mochamad Rafikasyah,https://drive.google.com/file/d/1Ysp0OCWVsk_j2eC8gUyl_di-yvOfzTiA/view?usp=drivesdk
 3672053008000001,Mochamad Rafikasyah,https://drive.google.com/file/d/1Jm8If-I1J3TKU30IlEFZSjudlQyE2boT/view?usp=drivesdk
-3175014908010001,Keshia Azmi Shabrina,https://drive.google.com/file/d/1EQ9rtBxz48aXLf-xKQHOwnYv4oHkWZF8/view?usp=drivesdk
