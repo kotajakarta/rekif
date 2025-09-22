@@ -251,3 +251,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3174036101960001,Nur Ani Kurniyati ,https://drive.google.com/file/d/1u3L0pNCGGGB7tJcmCsB2RHBoyGfkZ5mB/view?usp=drivesdk
 3209360104980002,Muhammad Naufal ,https://drive.google.com/file/d/1GvAPlUY6ZI8o7vB7BfYw2DDNnVd4ed-x/view?usp=drivesdk
 3209360104980002,Muhammad Naufal ,https://drive.google.com/file/d/1ABJ_mSQvWQi0LoeqKujqpsiX9KDSkeUc/view?usp=drivesdk
+3672053008000001,Mochamad Rafikasyah,https://drive.google.com/file/d/1Ysp0OCWVsk_j2eC8gUyl_di-yvOfzTiA/view?usp=drivesdk
