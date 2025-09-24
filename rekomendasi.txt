@@ -256,3 +256,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3175014908010001,Keshia Azmi Shabrina,https://drive.google.com/file/d/1EQ9rtBxz48aXLf-xKQHOwnYv4oHkWZF8/view?usp=drivesdk
 3175014908010001,Keshia Azmi Shabrina,https://drive.google.com/file/d/1qB0Vp-QJG1BlyjbbI6ugCJcISLUZXCbA/view?usp=drivesdk
 1601094104980002,FRANZISKA BELANTARI,https://drive.google.com/file/d/1PHFWQXOv9f-oLGnvz1eW9vDxFTyJaQoc/view?usp=drivesdk
+3523047007980001,Zuliani Alvin Nafiah,https://drive.google.com/file/d/1HS7Mik7Aqq4clDqHm8pNF4Db9pEC3Jrw/view?usp=drivesdk
