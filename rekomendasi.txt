@@ -263,4 +263,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3519156907970002,PIPIT INDRI DWI LESTARI ,https://drive.google.com/file/d/1bDcRtXqASmGMEQbXpYv82Luwe9MFgsP6/view?usp=drivesdk
 3511096005990001,Yin Zakia Glossolalia,https://drive.google.com/file/d/1ZtS03iEh7VKvBjM-LiEZi6Bm7Ufs2Y-Y/view?usp=drivesdk
 5272014601030003,Umayah Alnaiiyun,https://drive.google.com/file/d/1NlYSH6BVDMNTgtC1Pu58oi_yAHRN22GU/view?usp=drivesdk
-5272014601030003,UMAYAH ALNAIIYUN,
+5272014601030003,UMAYAH ALNAIIYUN,https://drive.google.com/file/d/1VDsjV6T2UZY4Y8C6OkVrNj5b0m6uf8tc/view?usp=drivesdk
