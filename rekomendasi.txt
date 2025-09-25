@@ -274,3 +274,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3522174310010001,Ira Arifatul Fajriyah,https://drive.google.com/file/d/1BPOU33sdLtSyaCDVqrzT3ARmuUkzc7Ui/view?usp=drivesdk
 3522174310010001,Ira Arifatul Fajriyah,https://drive.google.com/file/d/1GA-bNLVJgaa-rYpiZAaD3PKHbNHA77Wg/view?usp=drivesdk
 3522174310010001,Ira Arifatul fajriyah ,https://drive.google.com/file/d/1utvxv8MQLRBf537j1tJqfc5oSsNV5IAM/view?usp=drivesdk
+3522174310010001,Ira arifatul fajriyah,https://drive.google.com/file/d/1sSn2pu35TpSSYUv1RBAU7w_tvBIdAmO-/view?usp=drivesdk
