@@ -268,3 +268,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3201014207990006,IKA MAULIDA ROIHATUL JANAH,https://drive.google.com/file/d/1BJhLYaVKuVRU4hC9Zy5ePozgJsEl1esL/view?usp=drivesdk
 7371104106020007,Andi latifatuzzahra hasan,https://drive.google.com/file/d/1GYX3ySfmxx3oJdrzwqDQ_m3l3BlZq8zC/view?usp=drivesdk
 3201014207990006,Ika Maulida Roihatul Janah,https://drive.google.com/file/d/1oAsbt_A6CUuXGYYNXpICZOpnWY8kNmb3/view?usp=drivesdk
+3522174310010001,Ira Arifatul Fajriyah,https://drive.google.com/file/d/1pG4-Oap7e9bjS2Pn05CL02ya4gDhqfRh/view?usp=drivesdk
