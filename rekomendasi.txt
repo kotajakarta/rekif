@@ -279,4 +279,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3516026605980001,Suhbatul Asfiya’,https://drive.google.com/file/d/16if7t_K5bi9pKLxXDkqs2nRbDyAPMHvQ/view?usp=drivesdk
 3513154609020002,Nur Holifah,https://drive.google.com/file/d/1SSn5KM_G6-LuWwggTV-Imp6DCsWAkqF2/view?usp=drivesdk
 1271026808020001,Annisa Muflihah,https://drive.google.com/file/d/10TOjzOAJk0yATGfY1L286GQSIbir_oZY/view?usp=drivesdk
-3601225002990004,Vivi lutfiah,https://drive.google.com/file/d/1IZPBBXKjF_NowJbBu2kM9-sGeyHALkr2/view?usp=drivesdk
