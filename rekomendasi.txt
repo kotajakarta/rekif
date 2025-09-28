@@ -292,3 +292,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3515135505010004,Syahrida zairani,https://drive.google.com/file/d/1_NUu_uUS6DYYPbfQ6hnJeKzeq07nyNmo/view?usp=drivesdk
 1175035706000002,RENI KARTIKA,https://drive.google.com/file/d/1y---AYiFFxjhKSRaJ0OuT9PecxyIlG4L/view?usp=drivesdk
 3310157011040001,Fauziyah Qurrota Aini ,https://drive.google.com/file/d/16P0rcNSIRcZ1O5JnezFd1oa4ZhM854-N/view?usp=drivesdk
+3216087107980006,FITRIATUSOLIHAT ,https://drive.google.com/file/d/1dMNCqPOFENVrzmQK-FvccZnY8-dSjiXb/view?usp=drivesdk
