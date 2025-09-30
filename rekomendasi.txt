@@ -299,3 +299,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3175065511960009,SITI ZULHULAIFAH,https://drive.google.com/file/d/1Vkx8p0UpLooSrhD-twzAvJI8v1Jra9ye/view?usp=drivesdk
 3510056005030003,Widhat Haula Qothrunnada ,https://drive.google.com/file/d/1GZtO6oUKafforBOB4JaNvHBdBkQfQMAF/view?usp=drivesdk
 6474016104020001,Qurrotu ainin awwaliyyah,https://drive.google.com/file/d/1yUkQ88IjiHqSygKkAHiYJR-w7owH6SoF/view?usp=drivesdk
+6474016104020001,Qurrotu Ainin awwaliyyah ,https://drive.google.com/file/d/1Jx0Gy4NT2nIFXatl_nmVIHSITSICCMuH/view?usp=drivesdk
