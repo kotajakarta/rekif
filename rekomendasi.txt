@@ -309,3 +309,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3201167011950003,Nur Azizah,https://drive.google.com/file/d/1_SJwXQWbHDjvsE9imiAs3hjHyRJX8q21/view?usp=drivesdk
 1610025008960003,Ihwana ,https://drive.google.com/file/d/1-BstOEgNAhE1o8RQns_x7AeXvfEVD8Q4/view?usp=drivesdk
 1610025008960003,Ihwana ,https://drive.google.com/file/d/1k_74_uobOd_LN4pysVzgBf4lpwZ_M6bN/view?usp=drivesdk
+3275104805990013,Luthfia Afifah Isnaini ,https://drive.google.com/file/d/1nJkxFnLmd-j8Gp3wtNcNjax1U3rRoJfB/view?usp=drivesdk
