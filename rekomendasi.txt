@@ -328,4 +328,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3512146410950002,Lailatul Hidayati,https://drive.google.com/file/d/1iuDmhmIevNLSsaiW-81t1Ix1vGuniP8P/view?usp=drivesdk
 35081266l0000001,Erika Intan Risvianti,https://drive.google.com/file/d/1aULLgfhm5on8iNXWxNiYjm4kf8ajAeuK/view?usp=drivesdk
 1106236308020001,Fathin Nadhilla,https://drive.google.com/file/d/1guMGprjHRXI8yg5-hhfntvqQxs0b9wCY/view?usp=drivesdk
-1106236308020001,Fathin Nadhilla,https://drive.google.com/file/d/102A-LSyPBz2Oeoikoj47-9rmbhjzpgk_/view?usp=drivesdk
