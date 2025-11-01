@@ -340,5 +340,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 5104024311020002,Fatimah Hanifa Mahfudin,https://drive.google.com/file/d/1z1o68Jq-AExBMhe7L0ZDd3St-qT9an0b/view?usp=drivesdk
 3514136509020001,Mas achmada syarifah nadya khadijah,https://drive.google.com/file/d/11n9FNRVHo_C_UdUkOGjdzlhRmfqV_0y1/view?usp=drivesdk
 3510235612020001,Handariatul Ervida ,https://drive.google.com/file/d/1YNvwK3-_A91MGETF88nAYqfBhs80SVGy/view?usp=drivesdk
-3510066303000003,FARİDATUL ALVİANA ,https://drive.google.com/file/d/1wbtML_ZvPLIEiW8CqmZT0cHdMKprkYX6/view?usp=drivesdk
-3509025911110001,Elok sahlatul maqsudah ,
