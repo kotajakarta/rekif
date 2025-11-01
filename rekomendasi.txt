@@ -335,4 +335,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 1222021210990002,Yusril ihza alhamdani harahap,https://drive.google.com/file/d/1lggLwG7u_cJR841MTgRJWt_jAgmWLAh1/view?usp=drivesdk
 3578026406040002,bintang timur sekar mutiara ,https://drive.google.com/file/d/1hiwN_W613K3kelgK4cvjir6dXz9LnQrp/view?usp=drivesdk
 3578026406040002,bintang timur sekar mutiara,https://drive.google.com/file/d/1yFORJvwdMD49W1lrHOEM-V9oF7H_e4_u/view?usp=drivesdk
-3514154812020002,Shofiatul amelia,https://drive.google.com/file/d/1YOj-10qY4fzAvDgT_adlZtY_0BUeYiw4/view?usp=drivesdk
