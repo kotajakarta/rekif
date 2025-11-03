@@ -346,3 +346,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3515186008020001,Alya Banafsaj Sabiq,https://drive.google.com/file/d/1fWutVCGEKHruojenHNC3B7fVa2IzrET6/view?usp=drivesdk
 3517194112030003,AULİA FİTRİANİ,https://drive.google.com/file/d/1l5W-w1K1jttPpu4oky0fUvv7-HYItmgq/view?usp=drivesdk
 3517194112030003,AULİA FİTRİANİ,https://drive.google.com/file/d/13ifc8KLyGswP7TeQ26bRP5YJ0oSxym7x/view?usp=drivesdk
+3674054510080008,RAMADHINI ALFIA,https://drive.google.com/file/d/1zCtJ8va2yGiHzNL4bTq28D165CUmawL0/view?usp=drivesdk
