@@ -371,3 +371,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 350816503060005,Aqilah,https://drive.google.com/file/d/1wbTkJcGewDTwsKBehcaS9MDKo-IxAyDD/view?usp=drivesdk
 350816503060005,Aqilah,https://drive.google.com/file/d/18Z5J0CYcY7pgrgIPl2hGbMJ_ilQokLH0/view?usp=drivesdk
 350816503060005,Aqilah,https://drive.google.com/file/d/13WltsLVLlvM2jlHIT0sjWJLQCEpRvSYU/view?usp=drivesdk
+3578026406040002,bintang timur sekar mutiara,https://drive.google.com/file/d/1kjz4ZK7db8IawULtKr1j7yqGFb2N42pl/view?usp=drivesdk
