@@ -373,3 +373,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 350816503060005,Aqilah,https://drive.google.com/file/d/13WltsLVLlvM2jlHIT0sjWJLQCEpRvSYU/view?usp=drivesdk
 3578026406040002,bintang timur sekar mutiara,https://drive.google.com/file/d/1kjz4ZK7db8IawULtKr1j7yqGFb2N42pl/view?usp=drivesdk
 3206085204930001,Amalia Nurjanah,https://drive.google.com/file/d/1JMuqdGv7FeycmaHzpoKwTfxYDMG9B86H/view?usp=drivesdk
+32060845050010001,SOFA KARIMAH,https://drive.google.com/file/d/1-w6b8UdpWOeUVWj3ftYoyQ2xB-wdQRQi/view?usp=drivesdk
