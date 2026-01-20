@@ -380,3 +380,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3206286112980001,Siti Khoerunnisa ,https://drive.google.com/file/d/1CqOBA27yuK3ViYm9TwW4jSfjGFgQe5Hq/view?usp=drivesdk
 1110064904010002,SARAH REISKA,https://drive.google.com/file/d/1yXyIMqjKno4OxwPjk4DcpCtYnEgL1RSU/view?usp=drivesdk
 3329124208990005,ASYA NUR AMANIYYA,https://drive.google.com/file/d/1Pmmrru1aCCw6UwMLW3o1YSgrYreetde_/view?usp=drivesdk
+3204064312990006,Lulu Lutfi Asyiah ,https://drive.google.com/file/d/19tu8_Oqn8zM4tA0XvSvTnR0qjYy_FVI_/view?usp=drivesdk
