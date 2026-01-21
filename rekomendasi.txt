@@ -387,3 +387,5 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3523196201000001,Nailal Athiyyah,https://drive.google.com/file/d/1B-HzrdzKKJoxgO9d8V-Q7hle5BswmJeB/view?usp=drivesdk
 1805081004010005,Apri sanjaya,https://drive.google.com/file/d/1JKdqSUX8OQV6G-c_C8rF653Y8aT5E848/view?usp=drivesdk
 3509191907990001,Thoriq Alfajar,https://drive.google.com/file/d/1PuGSjOeHkPteR_bX5ul9pY3Pmoxa98Gc/view?usp=drivesdk
+3202114801990001,Zakiya dina kamalia,https://drive.google.com/file/d/1UNHeotVD_RaZuZSllyavYMIH41E7TRpK/view?usp=drivesdk
+3202114104020007,Zahida Aisyah Kamalia,https://drive.google.com/file/d/1lzf7OAlW284qIa9eN7WwfmwdNmzE4Ct_/view?usp=drivesdk
