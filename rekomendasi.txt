@@ -394,3 +394,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3305104402000001,Rafiqah Nur Azizah ,https://drive.google.com/file/d/1wjbJ3uajvohlO0XGM8UAlr3VhR9-HVmB/view?usp=drivesdk
 3517194112030003,AULİA FİTRİANİ,https://drive.google.com/file/d/17XtV3lVNCkBGwycvAcImKbHqv0p9rQc3/view?usp=drivesdk
 3578284707020001,Luluk um maknunah,https://drive.google.com/file/d/1xcf_Ck02Y3f8RTYa6JqECdqyJ6LndN2Z/view?usp=drivesdk
+7303022710970001,Muhammad Gufron,https://drive.google.com/file/d/1NtcHIMcFZXUU3-cbb0ogzMYQZjTG8jY7/view?usp=drivesdk
