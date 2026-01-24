@@ -398,4 +398,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3508084305990002,MUSRIFAH,https://drive.google.com/file/d/1WvO-j-x_LE4HoFxp2ZFYagAiOU8GcDUU/view?usp=drivesdk
 3578067010030006,Izzah Navilah Kafi,https://drive.google.com/file/d/13YbkSpexHXxIBkoUUgePF3Trh4GC9kTK/view?usp=drivesdk
 1171012701990003,Muhammad Imam Syahputra,https://drive.google.com/file/d/1lAnBLspmQHOU6_r4LzO3-BBL8DHU5ppZ/view?usp=drivesdk
-3302190801950003,Abdul Rochim Akhsan ,https://drive.google.com/file/d/1jKDDEEaM6GSSCeGMncFAOrYL3Yi3tAaS/view?usp=drivesdk
