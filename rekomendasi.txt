@@ -403,3 +403,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3276055808050005,Silmi Wahyu Kamilah,https://drive.google.com/file/d/1lwb4EzFneEUdAZ7bxGAf3UUirGqFSzAX/view?usp=drivesdk
 1102055209010001,Umairah ,https://drive.google.com/file/d/1rcZEwcAamZhTVZ1DG9Xz_fque_BHlsRu/view?usp=drivesdk
 3272015501990899,Siti zahra nabila,https://drive.google.com/file/d/19Vc9YRoOPW79vbJfL1V9mGxWTCY7rfJ0/view?usp=drivesdk
+3509191907990001,Thoriq alfajar,https://drive.google.com/file/d/1WtBxHT3_pvexNIVbCGeDA09H4gJEUX9U/view?usp=drivesdk
