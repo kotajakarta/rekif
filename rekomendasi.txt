@@ -413,4 +413,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 7406011009020001,FIQI ASHARI,https://drive.google.com/file/d/127kO_FUg1aFvnmplrvqUkvOEA0UIlSB6/view?usp=drivesdk
 3206084709970006,Hasni nur salami,https://drive.google.com/file/d/1prryUYQPXWAtye72mKZx99qU-uQQyOwc/view?usp=drivesdk
 3205205509970003,Euis Siti Rohimah ,https://drive.google.com/file/d/1kMgmxG_I2s_HoU0s-qUZiAIIKZ_Zsfq1/view?usp=drivesdk
-1606074206000003,Hulziva Rahmi,https://drive.google.com/file/d/1-jxo3L3v7RUc77QwAXpTPKVkZXMIEfEH/view?usp=drivesdk
+1606074206000003,Hulziva Rahmi,
