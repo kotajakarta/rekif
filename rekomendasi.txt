@@ -429,3 +429,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 1106053101000002,M Hafidhul Khairi,https://drive.google.com/file/d/1aIq8VsOrqVWZGYg0Fv-Hd9UxBWMEYiZq/view?usp=drivesdk
 3275125402050001,Najwa najiah,https://drive.google.com/file/d/1PM53YisNwo08To4mDpORzhIryzQEm08K/view?usp=drivesdk
 3329125911970003,ATIK FATIKHAH,https://drive.google.com/file/d/1Qs5mI2vFUmP4ANOn6yQUb_OcxFEklt3o/view?usp=drivesdk
+1106100207990002,Wahyu Shidqi,https://drive.google.com/file/d/1ZA2ntaDqrM6QkaQODoALeixedM3g8xXt/view?usp=drivesdk
