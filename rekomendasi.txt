@@ -432,4 +432,3 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 1106100207990002,Wahyu Shidqi,https://drive.google.com/file/d/1ZA2ntaDqrM6QkaQODoALeixedM3g8xXt/view?usp=drivesdk
 3515164812010009,Zahratus Saidah,https://drive.google.com/file/d/1qVCld7G5g9EH-d0VKANEYKCQGQn9Vzd1/view?usp=drivesdk
 3508191109980002,Muhammad Baburrahman Aminullah,https://drive.google.com/file/d/1Cnau4GQwB-cb6BkDoRi-Haxcb5DkJXxB/view?usp=drivesdk
-1803126208010001,Nenti agustin,https://drive.google.com/file/d/1z0f4GEccAubNXH5yWCqtlFNhWrDOPUly/view?usp=drivesdk
