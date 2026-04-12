@@ -438,3 +438,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3574015407000001,Restu Nurislamiati ,https://drive.google.com/file/d/1iBuVSERiGnKzmDXkLWiOQo2HBYRWLkUe/view?usp=drivesdk
 3574015407000001,Restu Nurislamiati ,https://drive.google.com/file/d/1_H2BXpt8CaXmxbt97zGCN0ptydJxT_Bj/view?usp=drivesdk
 3172034905071003,Khansa Mufidah,https://drive.google.com/file/d/1_KeMpiLv3QwJMNvZUWIiFTAoBhPqp1x8/view?usp=drivesdk
+3172034905071003,Khansa Mufidah ,https://drive.google.com/file/d/194pDFw-wpMmbnU8Pc1PdnClqqlwISz6W/view?usp=drivesdk
