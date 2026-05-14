@@ -444,3 +444,4 @@ NIK : 1871116807020001,Siti adzka salsabila,https://drive.google.com/file/d/1w27
 3603165706980001,Iga Isnaeni Rohmah,https://drive.google.com/file/d/14Q-3QZ64b8P-FiA1nyhLdoChJqRRRUa5/view?usp=drivesdk
 3513155809020002,ALVİ NUR DİNA ,https://drive.google.com/file/d/1Zjonsy_BO7lkOj7sCCXYHqGNs__HuJQG/view?usp=drivesdk
 7316050711920002,NURDIN,https://drive.google.com/file/d/1fzCZZpzceeu5hpvVIEkIpDnnvEzsz48G/view?usp=drivesdk
+3509154106050001,Cinta nazwa Aisyah ,https://drive.google.com/file/d/1x39SUZkKFB-8O8v6vVzRDuQeN7tGc9SS/view?usp=drivesdk
